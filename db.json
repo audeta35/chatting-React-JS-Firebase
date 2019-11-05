@@ -1,0 +1,48 @@
+{
+  "users" :
+  [
+    "uid" :
+    {
+      "email" : null,
+      "friends" :
+      [
+        {
+          "uid" : null,
+          "email" : null,
+        },
+        {
+          "uid" : null,
+          "email" : null,
+        }
+      ]
+    }
+  ],
+
+  "pChat" :
+  [
+    "uid" :
+    {
+      "cList" :
+      [
+        "uid" :
+        {
+          "eSender" : null,
+          "eReceiver" : null,
+          "dMessage" :
+          [
+            {
+              "type" : null,
+              "timestamp" : null,
+              "message" : null,
+            },
+            {
+              "type" : null,
+              "timestamp" : null,
+              "message" : null,
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
